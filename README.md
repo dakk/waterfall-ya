@@ -1,6 +1,6 @@
 # Yet Another Waterfall library for node
 
-waterfall-ya implements a waterfall utility to avoid (callback hell)[http://callbackhell.com/]. It doesn't require
+waterfall-ya implements a waterfall utility to avoid [callback hell](http://callbackhell.com/). It doesn't require
 any external dependencies.
 
 
