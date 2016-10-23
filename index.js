@@ -53,4 +53,4 @@ var waterfall = function (tasks, callback) {
 	wrapIterator(makeIterator(tasks))();
 };
 
-exports = waterfall;
+exports = module.exports = waterfall;
