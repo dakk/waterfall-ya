@@ -1,0 +1,23 @@
+{
+  "name": "waterfall-ya",
+  "version": "0.7.0",
+  "description": "yet another waterfall library for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakk/waterfall-ya.git"
+  },
+  "keywords": [
+    "waterfall",
+    "async"
+  ],
+  "author": "Davide Gessa (dakk)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/dakk/waterfall-ya/issues"
+  },
+  "homepage": "https://github.com/dakk/waterfall-ya#readme"
+}
