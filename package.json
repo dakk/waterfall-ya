@@ -1,7 +1,7 @@
 {
   "name": "waterfall-ya",
-  "version": "0.7.1",
-  "description": "web platform and Telegram bot for Shift lobbies",
+  "version": "0.7.2",
+  "description": "waterfall library for node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
